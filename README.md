@@ -32,3 +32,7 @@ This project uses Machine Learning (Logistic Regression) to classify sonar signa
 ## 🎯 Output
 
 * Predict whether object is Rock or Mine
+* ## 📸 Output
+![Output](output1.png)
+![Output](output2.png)
+![Output](output3.png)
